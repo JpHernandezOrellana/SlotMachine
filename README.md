@@ -1,1 +1,1 @@
-# Python-Slot-Machine
+Maquina traga monedas simple
